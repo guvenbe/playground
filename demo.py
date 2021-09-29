@@ -8,3 +8,4 @@ r = int(r)
 
 si = (p * n * r) / 100
 print('si={}', si)
+print('si={}', si)
